@@ -1,0 +1,6 @@
+﻿<asp:Image  runat="server" ImageUrl="~/Images/qypx_top01.jpg"/>
+<asp:Image SkinID="ImgTop02" runat="server" ImageUrl= "~/images/qypx_top02.gif"/>
+<asp:Image SkinID="NavagateBarMain01" width="183" height="134" runat="server" ImageUrl="~/Images/qypx_main01.jpg"/>
+<asp:Image SkinID="NavagateBarMain02" runat="server" width="41" height="306" ImageUrl="~/Images/qypx_main02.jpg"/>
+<asp:Image SkinID="NavagateBarMain04" width="142" height="20" runat="server" ImageUrl="~/Images/qypx_main04.gif"/>
+<asp:Image SkinID="NavagateBarMain05" width="142" height="91" runat="server" ImageUrl="~/Images/qypx_main05.gif"/>
