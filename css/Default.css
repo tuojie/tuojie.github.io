@@ -1,0 +1,39 @@
+﻿.lanmu_hei {  font-size: 12px; line-height: 180%; color: #000000; text-decoration: none}
+a.lanmu_hei:hover {  color: #CC0000; text-decoration: underline}
+.hulan {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 11px; line-height: 180%; color: 336797; text-decoration: none}
+a:hover {  color: #FF6600; text-decoration: underline}
+.hui {  font-size: 11px; line-height: 180%; color: #666666; text-decoration: none; font-family: "Verdana", "Arial", "Helvetica", "sans-serif"}
+.bai {  font-size: 12px; color: #FFFFFF; text-decoration: none; font-family: "Thoma", "Arial", "Helvetica", "sans-serif"; }
+.left_hei {  font-size: 12px; line-height: 200%; color: #000000; text-decoration: none; letter-spacing: 3px}
+.title_hong {  font-size: 14px; font-weight: bold; color: #CC0000; text-decoration: none; letter-spacing: 3px}
+.left_en {  font-size: 12px; line-height: 200%; color: #000000; text-decoration: none; font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; }
+.title_en {  font-size: 14px; font-weight: bold; color: #CC0000; text-decoration: none; font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; }
+.Text
+{
+	width:200px;
+	BORDER-RIGHT: 0px;
+	BORDER-TOP: 0px;
+	BACKGROUND: none transparent scroll repeat 0% 0%;
+	BORDER-LEFT: 0px;
+	BORDER-BOTTOM: #000000 1px solid;
+	font-size: 11px;
+	line-height: 180%;
+	color: #666666;
+	text-decoration: none;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+
+.Btn
+{
+	width:100px;
+	BORDER-RIGHT: #000000 1px solid;
+	BORDER-TOP: #000000 1px solid;
+	BACKGROUND: none transparent scroll repeat 1% 1%;
+	BORDER-LEFT: #000000 1px solid;
+	BORDER-BOTTOM: #000000 1px solid;
+	font-size: 11px;
+	line-height: 180%;
+	color: #000000;
+	text-decoration: none;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
