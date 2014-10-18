@@ -1,7 +1,7 @@
-﻿<asp:Image  runat="server" ImageUrl="~/Images/zjtj_top01.jpg"/>
+﻿<asp:Image  runat="server" ImageUrl="~/images/zjtj_top01.jpg"/>
 <asp:Image SkinID="ImgTop02" runat="server" ImageUrl= "~/images/zjtj_top02.gif"/>
 
-<asp:Image SkinID="NavagateBarMain01" width="183" height="134" runat="server" ImageUrl="~/Images/zjtj_main01.jpg"/>
-<asp:Image SkinID="NavagateBarMain02" runat="server" width="41" height="306" ImageUrl="~/Images/zjtj_main02.jpg"/>
-<asp:Image SkinID="NavagateBarMain04" width="142" height="20" runat="server" ImageUrl="~/Images/zjtj_main04.gif"/>
-<asp:Image SkinID="NavagateBarMain05" width="142" height="91" runat="server" ImageUrl="~/Images/zjtj_main05.gif"/>
+<asp:Image SkinID="NavagateBarMain01" width="183" height="134" runat="server" ImageUrl="~/images/zjtj_main01.jpg"/>
+<asp:Image SkinID="NavagateBarMain02" runat="server" width="41" height="306" ImageUrl="~/images/zjtj_main02.jpg"/>
+<asp:Image SkinID="NavagateBarMain04" width="142" height="20" runat="server" ImageUrl="~/images/zjtj_main04.gif"/>
+<asp:Image SkinID="NavagateBarMain05" width="142" height="91" runat="server" ImageUrl="~/images/zjtj_main05.gif"/>

@@ -1,7 +1,7 @@
-﻿<asp:Image  runat="server" ImageUrl="~/Images/cgal_top01.jpg"/>
+﻿<asp:Image  runat="server" ImageUrl="~/images/cgal_top01.jpg"/>
 <asp:Image SkinID="ImgTop02" runat="server" ImageUrl= "~/images/cgal_top02.gif"/>
 
-<asp:Image SkinID="NavagateBarMain01" width="183" height="134" runat="server" ImageUrl="~/Images/cgal_main01.jpg"/>
-<asp:Image SkinID="NavagateBarMain02" runat="server" width="41" height="306" ImageUrl="~/Images/cgal_main02.jpg"/>
-<asp:Image SkinID="NavagateBarMain04" width="142" height="20" runat="server" ImageUrl="~/Images/cgal_main04.gif"/>
-<asp:Image SkinID="NavagateBarMain05" width="142" height="91" runat="server" ImageUrl="~/Images/cgal_main05.gif"/>
+<asp:Image SkinID="NavagateBarMain01" width="183" height="134" runat="server" ImageUrl="~/images/cgal_main01.jpg"/>
+<asp:Image SkinID="NavagateBarMain02" runat="server" width="41" height="306" ImageUrl="~/images/cgal_main02.jpg"/>
+<asp:Image SkinID="NavagateBarMain04" width="142" height="20" runat="server" ImageUrl="~/images/cgal_main04.gif"/>
+<asp:Image SkinID="NavagateBarMain05" width="142" height="91" runat="server" ImageUrl="~/images/cgal_main05.gif"/>

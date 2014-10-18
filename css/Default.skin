@@ -9,7 +9,7 @@
 <asp:Menu SkinID="actionsMenu" StaticMenuItemStyle-CssClass="actionMenuItem" Orientation="Vertical" StaticDisplayLevels="1" MaximumDynamicDisplayLevels="0" runat="server"/>
 
 <%-- Header images for login status and help. --%>
-<asp:hyperlink AlternateText="Help" runat="server" ImageUrl="Images/help.png" SkinID="helpImage" NavigateUrl="~/Help.aspx"/>
+<asp:hyperlink AlternateText="Help" runat="server" ImageUrl="images/help.png" SkinID="helpImage" NavigateUrl="~/Help.aspx"/>
 
 <%-- Login control. --%>
 <asp:Login SkinID="login" runat="server">
